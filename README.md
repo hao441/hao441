@@ -1,8 +1,9 @@
 ## Hi, my Name is Harrison
 
+👀 Simple code makes me happy
+🌱 I’m currently open to remote opportunities
 
-
-## About Me
+## Technologies
 
 
 
@@ -28,8 +29,7 @@
   
 ## About Me
 ---
-👀 I'm always looking for ways to condense and simplify code.
-🌱 I’m currently developing cross platform apps
+
 
 Front-end
 
