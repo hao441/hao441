@@ -1,11 +1,7 @@
 ## Harrison
 Hi, I am Harrison - an analyst that works on big data, ERP transformations and testing. Over the past two years I have spent all my free time producing mobile and web apps and am now looking to transition into the software industry. Simple code makes me happy and I am always looking to automate more in order to focus on the complex.
 
-### Technologies
----
-
-
-
+## Technologies
 #### Front-end
 ![Swift logo](https://img.icons8.com/color/2x/swift.png)
 ![Kotlin logo](https://img.icons8.com/color/2x/kotlin.png)
@@ -14,8 +10,6 @@ Hi, I am Harrison - an analyst that works on big data, ERP transformations and t
 ![HTML5 logo](https://img.icons8.com/color/2x/html-5.png)
 ![CSS3 logo](https://img.icons8.com/fluency/2x/css3.png)
 ![React logo](https://img.icons8.com/color/2x/react-native.png)
-
-
 
 #### Back-end
 ![Mysql logo](https://img.icons8.com/fluency/2x/mysql-logo.png)
@@ -26,7 +20,6 @@ Hi, I am Harrison - an analyst that works on big data, ERP transformations and t
 ![Google Cloud logo](https://img.icons8.com/color/2x/google-cloud.png)
 ![Git logo](https://img.icons8.com/color/2x/git.png)
  
-
 ## Reach out
 [![LinkedIn link](https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png)](https://www.linkedin.com/in/harrison-o-476a2216b/)
 
