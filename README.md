@@ -1,4 +1,6 @@
-<div align="center"><b>## Hi, I'm Harrison</b></div>
+|| <!-- empty table header -->
+|:--:| <!-- table header/body separator with center formatting -->
+| I'm centered! | <!-- cell gets column's alignment -->
   
 About Me
 ---
