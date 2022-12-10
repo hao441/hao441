@@ -2,7 +2,7 @@
 - 👀 I’m interested in life
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on life
-- 📫 How to reach me on the ether
+- 📫 How to reach me = on the ether
 
 <!---
 hao441/hao441 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
