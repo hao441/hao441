@@ -1,9 +1,39 @@
-## Hi, I am Harrison
+## Hi, my Name is Harrison
+
+
+
+## About Me
+
+
+
+### Front-end
+![Swift logo](https://img.icons8.com/color/2x/swift.png)
+![Kotlin logo](https://img.icons8.com/color/2x/kotlin.png)
+![Javascript logo](https://img.icons8.com/color/2x/javascript.png)
+![Typescript logo](https://img.icons8.com/fluency/2x/typescript--v2.png)
+![HTML5 logo](https://img.icons8.com/color/2x/html-5.png)
+![CSS3 logo](https://img.icons8.com/fluency/2x/css3.png)
+![React logo](https://img.icons8.com/color/2x/react-native.png)
+
+
+
+### Back-end
+![Mysql logo](https://img.icons8.com/fluency/2x/mysql-logo.png)
+![Python logo](https://img.icons8.com/color/2x/python.png)
+![Nodejs logo](https://img.icons8.com/color/2x/nodejs.png)
+![Mongodb logo](https://i.imgur.com/GE8PHoA.png)
+![Firebase logo](https://img.icons8.com/color/2x/firebase.png)
+![Google Cloud logo](https://img.icons8.com/color/2x/google-cloud.png)
+![Git logo](https://img.icons8.com/color/2x/git.png)
   
 ## About Me
 ---
 👀 I'm always looking for ways to condense and simplify code.
 🌱 I’m currently developing cross platform apps
+
+Front-end
+
+
 
 <!---
 hao441/hao441 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
