@@ -2,14 +2,8 @@
   
 About Me
 ---
-
-
-
-<div align="right"><b>Hi, </b></div>
-- 👀 I’m interested in life
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on life
-- 📫 How to reach me = on the ether
+👀 I'm always looking for ways to condense and simplify code.
+🌱 I’m currently developing cross platform apps
 
 <!---
 hao441/hao441 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
