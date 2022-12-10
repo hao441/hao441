@@ -1,4 +1,8 @@
-1| Header Column One | Header Column Two | Header Column Three | Header Column Four |
+1| Column 1 Header | Column 2 Header | Column 3 Header |
+2| --------------- | --------------- | --------------- |
+3| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+4| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
+5| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
   
 About Me
 ---
