@@ -1,9 +1,6 @@
-### Harrison
----
+## Harrison
 
-- 👀 Simple code makes me happy
-
-- 🌱 I’m currently looking for remote opportunities
+Hi, I am Harrison - an analyst that works on big data, ERP transformations and testing. Over the past two years I have spent all my free time producing mobile and web apps and am looking to transition into the software industry. I love simplying pages of code into lines, always looking to automate more in order to focus on the complex.
 
 ### Technologies
 ---
