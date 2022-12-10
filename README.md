@@ -1,7 +1,6 @@
 | Front-end      | Back-end |
 | :---:        |    :----:   |
 | Header      | Title       |
-| Paragraph   | Text        |
   
 About Me
 ---
