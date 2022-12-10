@@ -1,6 +1,7 @@
-<div align="center"><b>Hi, I'm Harrison</b></div>
-
-About Me
+<div align="center">
+  <b>Hi, I'm Harrison</b>
+  About Me
+</div>
 ---
 
 
