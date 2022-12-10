@@ -1,8 +1,6 @@
-| Front-end      | Back-end                    |
-| :---:        |    :----:                     |
-| Header              | Title                          | 
+## Hi, I am Harrison
   
-About Me
+## About Me
 ---
 👀 I'm always looking for ways to condense and simplify code.
 🌱 I’m currently developing cross platform apps
