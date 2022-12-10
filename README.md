@@ -1,3 +1,5 @@
+<center>Harrison</center>
+
 - 👋 Hi, I’m @hao441
 - 👀 I’m interested in life
 - 🌱 I’m currently learning Kotlin
