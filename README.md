@@ -1,14 +1,14 @@
-## Hi, I'm Harrison
+### Hi, I'm Harrison
 
 - 👀 Simple code makes me happy
 
 - 🌱 I’m currently looking for remote opportunities
 
-## Technologies
+### Technologies
 
 
 
-### Front-end
+#### Front-end
 ![Swift logo](https://img.icons8.com/color/2x/swift.png)
 ![Kotlin logo](https://img.icons8.com/color/2x/kotlin.png)
 ![Javascript logo](https://img.icons8.com/color/2x/javascript.png)
@@ -19,7 +19,7 @@
 
 
 
-### Back-end
+#### Back-end
 ![Mysql logo](https://img.icons8.com/fluency/2x/mysql-logo.png)
 ![Python logo](https://img.icons8.com/color/2x/python.png)
 ![Nodejs logo](https://img.icons8.com/color/2x/nodejs.png)
@@ -27,12 +27,7 @@
 ![Firebase logo](https://img.icons8.com/color/2x/firebase.png)
 ![Google Cloud logo](https://img.icons8.com/color/2x/google-cloud.png)
 ![Git logo](https://img.icons8.com/color/2x/git.png)
-  
-## About Me
----
-
-
-Front-end
+ 
 
 
 
