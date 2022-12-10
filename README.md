@@ -1,8 +1,8 @@
-## Hi, my Name is Harrison
+## Hi, I'm Harrison
 
-👀 Simple code makes me happy
+- 👀 Simple code makes me happy
 
-🌱 I’m currently open to remote opportunities
+- 🌱 I’m currently open to remote opportunities
 
 ## Technologies
 
