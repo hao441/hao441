@@ -1,4 +1,4 @@
-<div align="center">Harrison</div>
+<div align="center"><b>Harrison</b></div>
 
 - 👋 Hi, I’m @hao441
 - 👀 I’m interested in life
