@@ -1,10 +1,12 @@
 ### Hi, I'm Harrison
+---
 
 - 👀 Simple code makes me happy
 
 - 🌱 I’m currently looking for remote opportunities
 
 ### Technologies
+---
 
 
 
