@@ -2,7 +2,7 @@
 Hi, I am Harrison - an analyst that works on big data, ERP transformations and testing. Many years of graphics design though over the past two years I have spent all my free time producing mobile and web apps and am now looking to transition into the software industry. Simple code makes me happy and I am always looking to automate more in order to focus on the complex.
 
 ## Technologies
-#### Front-end
+### Front-end
 ![Swift logo](https://img.icons8.com/color/2x/swift.png)
 ![Kotlin logo](https://img.icons8.com/color/2x/kotlin.png)
 ![Javascript logo](https://img.icons8.com/color/2x/javascript.png)
@@ -11,7 +11,7 @@ Hi, I am Harrison - an analyst that works on big data, ERP transformations and t
 ![CSS3 logo](https://img.icons8.com/fluency/2x/css3.png)
 ![React logo](https://img.icons8.com/color/2x/react-native.png)
 
-#### Back-end
+### Back-end
 ![Mysql logo](https://img.icons8.com/fluency/2x/mysql-logo.png)
 ![Python logo](https://img.icons8.com/color/2x/python.png)
 ![Nodejs logo](https://img.icons8.com/color/2x/nodejs.png)
