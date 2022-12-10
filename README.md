@@ -28,6 +28,8 @@ Hi, I am Harrison - an analyst that works on big data, ERP transformations and t
 ![Git logo](https://img.icons8.com/color/2x/git.png)
  
 
+## Reach out
+[![LinkedIn link](https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png)](https://www.linkedin.com/in/harrison-o-476a2216b/)
 
 
 <!---
