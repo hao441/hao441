@@ -1,7 +1,7 @@
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Front-end      | Back-end |
+| :---:        |    :----:   |
+| Header      | Title       |
+| Paragraph   | Text        |
   
 About Me
 ---
