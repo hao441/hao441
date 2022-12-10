@@ -1,6 +1,7 @@
 ## Hi, my Name is Harrison
 
 👀 Simple code makes me happy
+
 🌱 I’m currently open to remote opportunities
 
 ## Technologies
