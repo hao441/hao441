@@ -2,7 +2,7 @@
 
 - 👀 Simple code makes me happy
 
-- 🌱 I’m currently open to remote opportunities
+- 🌱 I’m currently looking for remote opportunities
 
 ## Technologies
 
