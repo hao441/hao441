@@ -1,6 +1,5 @@
-<div align="center"><b>Me Harrison</b></div>
+<div align="center"><b>👋 Hi, I'm Harrison</b></div>
 
-- 👋 Hi, I’m @hao441
 - 👀 I’m interested in life
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on life
