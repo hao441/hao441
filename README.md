@@ -1,5 +1,5 @@
 # Harrison
-Hi, I am Harrison - an analyst that works in big data, ERP transformations and testing. I have spent many years doing grpahics design though over the past two years I have spent all my free time producing web and mobile apps and am now looking to transition into the software industry. Simple code makes me happy and I am always looking to automate more in order to focus on the complex.
+Hi, I am Harrison - an analyst that works in big data, ERP transformations and testing. I have spent many years doing graphics design though over the past two years I have spent all my free time producing web and mobile apps and am now looking to transition into the software industry. Simple code makes me happy and I am always looking to automate more in order to focus on the complex.
 
 ## Technologies
 ### Front-end
