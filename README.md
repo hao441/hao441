@@ -1,5 +1,5 @@
 # Harrison
-Hi, I am Harrison - an analyst that works on big data, ERP transformations and testing. Many years of graphics design though over the past two years I have spent all my free time producing mobile and web apps and am now looking to transition into the software industry. Simple code makes me happy and I am always looking to automate more in order to focus on the complex.
+Hi, I am Harrison - an analyst that works on big data, ERP transformations and testing. I have spent many years doing grpahics design though over the past two years I have spent all my free time producing web and mobile apps and am now looking to transition into the software industry. Simple code makes me happy and I am always looking to automate more in order to focus on the complex.
 
 ## Technologies
 ### Front-end
@@ -26,8 +26,6 @@ Hi, I am Harrison - an analyst that works on big data, ERP transformations and t
 ![Adobe XD logo](https://img.icons8.com/color/2x/adobe-xd.png)
 ![Figma logo](https://img.icons8.com/color/2x/figma.png)
 
-
- 
 ## Reach out
 [![LinkedIn link](https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png)](https://www.linkedin.com/in/harrison-o-476a2216b/)
 
