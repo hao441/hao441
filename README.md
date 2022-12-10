@@ -1,4 +1,4 @@
-<div align="center"><b>👋 Hi, I'm Harrison</b></div>
+<div align="center"><b>Hi, I'm Harrison 👋</b></div>
 
 - 👀 I’m interested in life
 - 🌱 I’m currently learning Kotlin
