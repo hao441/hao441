@@ -3,10 +3,8 @@ Hi, I am Harrison - an analyst that works in big data, ERP transformations and t
 
 ## Technologies
 ### Front-end
-![Swift logo](https://img.icons8.com/color/2x/swift.png)
-<!-- ![Kotlin logo](https://img.icons8.com/color/2x/kotlin.png) -->
-![Javascript logo](https://img.icons8.com/color/2x/javascript.png)
-<!-- ![Typescript logo](https://img.icons8.com/fluency/2x/typescript--v2.png) -->
+![Swift logo](https://img.icons8.com/color/2x/swift.png)<!-- ![Kotlin logo](https://img.icons8.com/color/2x/kotlin.png) -->
+![Javascript logo](https://img.icons8.com/color/2x/javascript.png)<!-- ![Typescript logo](https://img.icons8.com/fluency/2x/typescript--v2.png) -->
 ![React logo](https://img.icons8.com/color/2x/react-native.png)
 ![HTML5 logo](https://img.icons8.com/color/2x/html-5.png)
 ![CSS3 logo](https://img.icons8.com/fluency/2x/css3.png)
