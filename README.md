@@ -4,7 +4,7 @@ Hi, I am Harrison - an analyst that works in big data, ERP transformations and t
 ## Technologies
 ### Front-end
 ![Javascript logo](https://img.icons8.com/color/2x/javascript.png)
-![Typescript logo]([https://img.icons8.com/color/512/typescript.png](https://img.icons8.com/color/96/null/typescript.png)
+![Typescript logo]([https://img.icons8.com/color/512/typescript.png](https://img.icons8.com/color/96/null/typescript.png))
 ![React logo](https://img.icons8.com/color/2x/react-native.png)
 ![HTML5 logo](https://img.icons8.com/color/2x/html-5.png)
 ![CSS3 logo](https://img.icons8.com/fluency/2x/css3.png)
