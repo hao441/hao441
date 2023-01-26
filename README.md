@@ -1,32 +1,34 @@
-# Harrison
-Hi, I am Harrison - an analyst that works in big data, ERP transformations and testing. I have spent many years doing graphics design though over the past two years I have spent all my free time producing web and mobile apps and am now looking to transition into the software industry. Simple code makes me happy and I am always looking to automate more in order to focus on the complex.
+# ✨ Harrison✨ 
+**Technologies**
 
-## Technologies
-### Front-end
-![Javascript logo](https://img.icons8.com/color/2x/javascript.png)
-![Typescript logo](https://img.icons8.com/color/96/null/typescript.png)
-![React logo](https://img.icons8.com/color/2x/react-native.png)
-![HTML5 logo](https://img.icons8.com/color/2x/html-5.png)
-![CSS3 logo](https://img.icons8.com/fluency/2x/css3.png)
-![Swift logo](https://img.icons8.com/color/2x/swift.png) 
+![Javascript logo](https://img.icons8.com/color/48/null/javascript--v1.png)
+![Typescript logo](https://img.icons8.com/fluency/48/null/typescript--v2.png)
+![Swift logo](https://img.icons8.com/color/48/null/swift.png)
+![Python logo](https://img.icons8.com/fluency/48/null/python.png)
+![Nodejs logo](https://img.icons8.com/fluency/48/null/node-js.png)
+![Mongodb logo](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png)
+![Firebase logo](https://img.icons8.com/color/48/null/firebase.png)
+![Google Cloud logo](https://img.icons8.com/color/48/null/google-cloud.png)
+![Git logo](https://img.icons8.com/color/48/null/git.png)
 
-### Back-end
+**A full-stack developer.**
 
-![Python logo](https://img.icons8.com/color/2x/python.png)
-![Nodejs logo](https://img.icons8.com/color/2x/nodejs.png)
-![Mongodb logo](https://i.imgur.com/GE8PHoA.png)
-![Firebase logo](https://img.icons8.com/color/2x/firebase.png)
-![Google Cloud logo](https://img.icons8.com/color/2x/google-cloud.png)
-![Git logo](https://img.icons8.com/color/2x/git.png)
+🌱 I’m currently learning Angular
+
+🌏 I’m looking to deploy projects on a massive scale
+
+👨‍💻 All of my projects are available at https://github.com/hao441
+
+🫵 Reach out https://www.linkedin.com/in/harrison-o-476a2216b/
+
+
+
 
 <!-- ### Other
 ![Photoshop logo](https://img.icons8.com/color/2x/adobe-photoshop.png)
 ![Aftereffects logo](https://img.icons8.com/color/2x/adobe-after-effects.png)
 ![Adobe XD logo](https://img.icons8.com/color/2x/adobe-xd.png)
 ![Figma logo](https://img.icons8.com/color/2x/figma.png) -->
-
-## Reach out
-[![LinkedIn link](https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png)](https://www.linkedin.com/in/harrison-o-476a2216b/)
 
 
 <!---
