@@ -1,4 +1,15 @@
-# ✨ Harrison✨ 
+# ✨ Harrison ✨ 
+
+**A full-stack developer.**
+
+🌱 I’m currently learning Angular
+
+🌏 I’m looking to deploy projects on a massive scale
+
+👨‍💻 All of my projects are available at https://github.com/hao441
+
+👋 Reach out https://www.linkedin.com/in/harrison-o-476a2216b/
+
 **Technologies**
 
 ![Javascript logo](https://img.icons8.com/color/48/null/javascript--v1.png)
@@ -10,17 +21,6 @@
 ![Firebase logo](https://img.icons8.com/color/48/null/firebase.png)
 ![Google Cloud logo](https://img.icons8.com/color/48/null/google-cloud.png)
 ![Git logo](https://img.icons8.com/color/48/null/git.png)
-
-**A full-stack developer.**
-
-🌱 I’m currently learning Angular
-
-🌏 I’m looking to deploy projects on a massive scale
-
-👨‍💻 All of my projects are available at https://github.com/hao441
-
-🫵 Reach out https://www.linkedin.com/in/harrison-o-476a2216b/
-
 
 
 
