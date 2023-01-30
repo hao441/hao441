@@ -6,7 +6,7 @@
 
 🌏 I’m looking to deploy projects on a massive scale
 
-👨‍💻 All of my projects are available at https://github.com/hao441
+👨‍💻 View my website where you can see my main projects with their demos in one place [https://github.com/hao441](https://harrisonoates.io)
 
 👋 Reach out https://www.linkedin.com/in/harrison-o-476a2216b/
 
