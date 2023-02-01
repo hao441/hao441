@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Angular
 
-🌏 I’m looking to deploy the technology of the future
+🌏 I’m looking to deploy technology that shapes the future
 
 👨‍💻 Check out my home page https://harrisonoates.io
 
