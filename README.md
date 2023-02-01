@@ -14,6 +14,7 @@
 
 ![Javascript logo](https://img.icons8.com/color/48/null/javascript--v1.png)
 ![Typescript logo](https://img.icons8.com/fluency/48/null/typescript--v2.png)
+![React logo](https://img.icons8.com/color/48/null/react-native.png)
 ![Swift logo](https://img.icons8.com/color/48/null/swift.png)
 ![Python logo](https://img.icons8.com/fluency/48/null/python.png)
 ![Nodejs logo](https://img.icons8.com/fluency/48/null/node-js.png)
