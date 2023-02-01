@@ -6,7 +6,7 @@
 
 🌏 I’m looking to deploy technology that shapes the future
 
-👨‍💻 Check out my home page https://harrisonoates.io
+👨‍💻 Check out my portfolio https://harrisonoates.io
 
 👋 Reach out https://www.linkedin.com/in/harrison-o-476a2216b/
 
