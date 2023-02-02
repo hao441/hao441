@@ -2,7 +2,7 @@
 
 **A full-stack developer.**
 
-🌱 I’m currently learning Angular
+🌱 I’m currently learning Kotlin
 
 🌏 I want to deploy technology that shapes the future.
 
