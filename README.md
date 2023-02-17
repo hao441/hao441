@@ -6,9 +6,9 @@
 
 🌏 I want to deploy technology that shapes the future.
 
-👨‍💻 Free feel to check out my [portfolio](https://harrisonoates.io)
+👨‍💻 Free feel to check out my [portfolio](https://harrisonoates.io).
 
-👋 Or to reach out to me on [LinkedIn](https://www.linkedin.com/in/harrison-o-476a2216b/)
+👋 Or to reach out to me on [LinkedIn](https://www.linkedin.com/in/harrison-o-476a2216b/).
 
 **Technologies**
 
