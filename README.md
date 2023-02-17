@@ -2,7 +2,7 @@
 
 **A full-stack developer.**
 
-🌱 I’m currently learning Kotlin
+🌱 I’m currently learning Nuxt.js
 
 🌏 I want to deploy technology that shapes the future.
 
