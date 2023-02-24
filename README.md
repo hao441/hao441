@@ -8,7 +8,7 @@
 
 👨‍💻 Free feel to check out my [portfolio](https://harrisonoates.io).
 
-👋 Or to reach out to me on [LinkedIn](https://www.linkedin.com/in/harrison-o-476a2216b/).
+👋 Or reach out to me on [LinkedIn](https://www.linkedin.com/in/harrison-o-476a2216b/).
 
 **Technologies**
 
