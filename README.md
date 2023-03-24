@@ -1,6 +1,6 @@
 # ✨ Harrison ✨ 
 
-**Web/Mobile Developer.**
+**Developer**
 
 🌱 I’m currently creating Next.js Apps
 
@@ -15,6 +15,7 @@
 ![Javascript logo](https://img.icons8.com/color/48/null/javascript--v1.png)
 ![Typescript logo](https://img.icons8.com/fluency/48/null/typescript--v2.png)
 ![Python logo](https://img.icons8.com/fluency/48/null/python.png)
+![Swift logo](https://img.icons8.com/color/48/null/swift.png)
 ![React logo](https://img.icons8.com/color/48/null/react-native.png)
 ![Nodejs logo](https://img.icons8.com/fluency/48/null/node-js.png)
 ![Mongodb logo](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png)
