@@ -1,6 +1,6 @@
 # ✨ Harrison ✨ 
 
-**JS/Python/Swift Developer.**
+**Web/Mobile Developer.**
 
 🌱 I’m currently creating Next.js Apps
 
