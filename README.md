@@ -1,6 +1,6 @@
 # ✨ Harrison ✨ 
 
-**Exposed to programming at a young age and currently taking it further.**
+**JS/Python/Swift Developer.**
 
 🌱 I’m currently creating Next.js Apps
 
