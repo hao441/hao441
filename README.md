@@ -1,6 +1,6 @@
 # ✨ Harrison ✨ 
 
-**A full-stack developer.**
+**Exposed to programming at a young age and currently taking it further.**
 
 🌱 I’m currently creating Next.js Apps
 
