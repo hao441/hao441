@@ -2,7 +2,7 @@
 
 **Developer**
 
-🌱 I’m currently creating Next.js Apps
+🌱 I’m currently creating iOS Apps
 
 🌏 I want to deploy technology that shapes the future.
 
