@@ -6,7 +6,7 @@
 
 🌏 I want to deploy technology that shapes the future.
 
-👨‍💻 Free feel to check out my [portfolio](https://harrisonoates.netlify.com).
+👨‍💻 Free feel to check out my [portfolio](https://harrisonoates.netlify.app).
 
 👋 Or reach out to me on [LinkedIn](https://www.linkedin.com/in/harrison-o-476a2216b/).
 
