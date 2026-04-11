@@ -6,10 +6,6 @@
 
 🌏 I want to deploy technology that shapes the future.
 
-👨‍💻 Free feel to check out my [portfolio](https://harrisonoates.netlify.app).
-
-👋 Or reach out to me on [LinkedIn](https://www.linkedin.com/in/harrison-o-476a2216b/).
-
 **Technologies**
 
 ![Javascript logo](https://img.icons8.com/color/48/null/javascript--v1.png)
